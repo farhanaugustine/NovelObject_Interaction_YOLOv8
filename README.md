@@ -1,4 +1,4 @@
-# NovelObject_Interaction_YOLOv8
+# Novel Object_Mouse_Interaction_ w/ YOLOv8
 
 Mouse-Object Interaction Detection
 
