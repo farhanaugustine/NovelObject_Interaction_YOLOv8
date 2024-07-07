@@ -1,3 +1,10 @@
+# Please read the following before using this script:
+### In this script, the names of the objects that the YOLO model has been trained to detect are defined as object_1, object_2, and object_3. These are set to ‘Mouse’, ‘R_PetriDish’, and ‘L_PetriDish’, respectively.
+### If you want to change these names, you can replace ‘Mouse’, ‘R_PetriDish’, and ‘L_PetriDish’ with the new names of the classes that your model has been trained to detect.
+### Please note that the names used in the script must match the class names that your model has been trained on. The class names are typically defined in the data configuration file used for training the YOLO model. If the names do not match, the script will not be able to correctly identify and process the detected objects.
+### Define the names of your objects in lines 58-61.
+
+# Begining of the code: 
 from ultralytics import YOLO
 import cv2
 import numpy as np
