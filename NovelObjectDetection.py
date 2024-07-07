@@ -1,5 +1,5 @@
 ### The script is designed to detect interactions between a ‘Mouse’ and a ‘NovelObject’ in a video.
-### Change the name in * lines 82 and 86 * with the names of your own objects. (NOTE: Names used in the script must match the class names on which your model has been trained. The class names are typically defined in the data configuration file used for training the YOLO model. If the names do not match, the script will not be able to identify and process the detected objects correctly)
+### Change the names in * lines 82-90 * with the names of your own objects. (NOTE: Names used in the script must match the class names on which your model has been trained. The class names are typically defined in the data configuration file used for training the YOLO model. If the names do not match, the script will not be able to identify and process the detected objects correctly)
 ### Also, remember to change the labels in the cv2.putText function calls accordingly to display the correct labels on the video frames.
 
 from ultralytics import YOLO
