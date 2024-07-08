@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/823833552.svg)](https://zenodo.org/doi/10.5281/zenodo.12684627)
+
 # Novel Object_Mouse_Interaction_ w/ YOLOv8
 
 ### Mouse-Object Interaction Detection
