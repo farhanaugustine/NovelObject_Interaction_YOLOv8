@@ -1,0 +1,26 @@
+Abstract: The script works by running the YOLO model on each frame of the video and checking if both a Mouse and a NovelObject are detected in the frame. If both objects are detected, it calculates the Intersection over Union (IoU) of their bounding boxes to determine if they are interacting. If an interaction is detected, the script increments an interaction counter and duration, and writes the frame to an output video file.
+
+authors:
+  - family-names: Augustine
+    given-names: Farhan
+    orcid: "https://orcid.org/0000-0002-8348-6039"
+cff-version: 1.0.0
+date-released: "07-08-2024"
+identifiers:
+  - description: "This is the collection of archived snapshots of the latest release versions of NovelObject_Interaction_YOLOv8."
+    type: doi
+    value: 10.5281/zenodo.12684628
+  - description: "This is the collection of archived snapshots of the latest release versions of NovelObject_Interaction_YOLOv8."
+    type: doi
+    value: 10.5281/zenodo.12684628
+keywords:
+  - YOLOv8
+  - AnimalBehaviorResearch
+  - NovelObjectTest
+  - MouseBehaviors
+license: 
+  - GPL-3.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/farhanaugustine/NovelObject_Interaction_YOLOv8"
+title: "NovelObject_Interaction_YOLOv8"
+version: 1.0.0
