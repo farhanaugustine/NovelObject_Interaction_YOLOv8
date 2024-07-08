@@ -1,8 +1,13 @@
 # Novel Object_Mouse_Interaction_ w/ YOLOv8
 
-Mouse-Object Interaction Detection
+### Mouse-Object Interaction Detection
 
-This script uses a YOLO model to detect interactions between a mouse and an object in a video. An interaction is defined as the mouse and the object having an Intersection over Union (IoU) of their bounding boxes greater than a specified threshold.
+### These scripts use a YOLO model to detect interactions between a mouse and object(s) in a video. An interaction is defined as the mouse and the object having an Intersection over Union (IoU) of their bounding boxes greater than a specified threshold.
+
+ $\textcolor{yellow}{There\ are\ two\ python\ scripts\ in\ this\ project\ :}$
+1. Script titled $\textcolor{yellow}{NovelObjectDetection.py}$ is meant for use with two YOLOv8 object classes (Mouse and NovelObject).
+2. Script titled $\textcolor{yellow}{Intersection\ _\ Analysis\ _\ 3\ _\ Objects.py\}$ is meant for use with three YOLOv8 object classes (Object 1, Object 2, and Object 3). Users can change the names of these classes (please see instructions on the script itself).
+
 Requirements
 
     Python 3.6 or later
