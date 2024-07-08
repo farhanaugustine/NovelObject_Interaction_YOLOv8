@@ -28,7 +28,7 @@ Usage
 
 Customization
 
-You can customize the script by changing the following parameters:
+You can customize the script by changing the following parameters for each script:
 
     video_path: The path to the video file.
     model_path: The path to the YOLO model weights file.
