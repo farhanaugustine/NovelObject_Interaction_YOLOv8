@@ -1,5 +1,9 @@
 [![DOI](https://zenodo.org/badge/823833552.svg)](https://zenodo.org/doi/10.5281/zenodo.12684627)
 
+# YouTube Video Tutorial for this Project: (Click the Image Below)
+[![Youtube Tutorial](https://github.com/farhanaugustine/NovelObject_Interaction_YOLOv8/assets/54376988/a22aa44a-87d3-49be-b028-abe0221ba813)](https://youtu.be/0iptIs9ccGg?si=S0OfYyacMZSSL82n)
+
+
 # Novel Object_Mouse_Interaction_ w/ YOLOv8
 
 ### Mouse-Object Interaction Detection
